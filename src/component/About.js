@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 
 function About() {
     return(
         // <!-- About Section-->
-        <section className="page-section bg-primary text-white mb-0" id="about">
+        <section className="page-section bg-primary text-white mb-0 alig" id="about">
             <div className="container">
                 <h2 className="page-section-heading text-center text-uppercase text-white">About</h2>
                 <div className="divider-custom divider-light">
